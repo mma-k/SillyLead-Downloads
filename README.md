@@ -10,6 +10,11 @@
 
 ---
 
+**IMPORTANT SETUP: You must create a `.env` file containing your license key before running the application. Please paste your license key along with this specific variable name:**
+```env
+SILLYLEAD_LICENSE_KEY=
+```
+
 Welcome to **SillyLead Pro**! This tool empowers you to extract high-quality B2B leads from Google Maps completely on autopilot. All data is saved into a local searchable CRM with one-click statuses (Contacted, Blacklisted, Archived).
 
 This repository contains the standalone, pre-compiled executables. **No coding knowledge, Python installation, or complex setup is required.** Just download, open, and start scraping!
