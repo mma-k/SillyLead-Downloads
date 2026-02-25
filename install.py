@@ -23,7 +23,7 @@ def main():
     
     if system == "windows":
         print("💻 Detected Windows")
-        filename = "sillylead.exe"
+        filename = "windows-sillylead.exe"
         url = f"{REPO_URL}/{filename}"
         dest = os.path.join(os.getcwd(), filename)
         if download_file(url, dest):
@@ -31,7 +31,7 @@ def main():
             
     elif system == "darwin":
         print("🍎 Detected macOS")
-        filename = "sillylead_macos"
+        filename = "macos-sillylead"
         url = f"{REPO_URL}/{filename}"
         dest = os.path.join(os.getcwd(), "sillylead")
         if download_file(url, dest):
@@ -40,7 +40,7 @@ def main():
             
     elif system == "linux":
         print("🐧 Detected Linux")
-        filename = "sillylead_linux"
+        filename = "linux-sillylead"
         url = f"{REPO_URL}/{filename}"
         dest = os.path.join(os.getcwd(), "sillylead")
         if download_file(url, dest):
