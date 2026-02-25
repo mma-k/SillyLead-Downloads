@@ -36,7 +36,15 @@ We built a smart cross-platform installer that will automatically detect your Op
 curl -sL https://raw.githubusercontent.com/mma-k/SillyLead-Downloads/main/install.py | python3
 ```
 
-*Don't have Python? You can also manually download your OS executable straight from our [Releases Page](https://github.com/mma-k/SillyLead-Downloads/releases/latest).*
+*Don't have Python? You can also manually download your OS executable straight from our Releases Page:*
+
+| Operating System | Direct Download Link |
+|------------------|----------------------|
+| **Windows** | [📥 Download `windows-sillylead.exe`](https://github.com/mma-k/SillyLead-Downloads/releases/latest/download/windows-sillylead.exe) |
+| **macOS** | [📥 Download `macos-sillylead`](https://github.com/mma-k/SillyLead-Downloads/releases/latest/download/macos-sillylead) |
+| **Linux** | [📥 Download `linux-sillylead`](https://github.com/mma-k/SillyLead-Downloads/releases/latest/download/linux-sillylead) |
+
+*For macOS and Linux users, remember to make the file executable after downloading by running `chmod +x <filename>` in your terminal.*
 
 ---
 
