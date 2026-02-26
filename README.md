@@ -24,6 +24,8 @@
 - [Troubleshooting](#-troubleshooting)
 - [FAQ](#-faq)
 
+> 📖 **New to this?** Check out our **[Visual Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)** — a step-by-step walkthrough with screenshots, designed for non-developers.
+
 ---
 
 ## 🧐 What is SillyLead?
