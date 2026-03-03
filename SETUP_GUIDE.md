@@ -15,7 +15,7 @@
 You need **two things** to use SillyLead:
 
 1. ✅ **Google Chrome** (or Chromium) installed on your computer
-2. ✅ **A License Key** — contact us to get one (see bottom of this page)
+2. ✅ **A License Key** — buy one at [sillylead.vercel.app](https://sillylead.vercel.app)
 
 That's it. No Python, Node.js, or any developer tools needed.
 
@@ -45,9 +45,9 @@ Go to our releases page and download the file for your operating system:
 
 | Your Computer | Download This |
 |---------------|---------------|
-| **Windows** | `windows-sillylead.exe` |
-| **Mac** | `macos-sillylead` |
-| **Linux** | `linux-sillylead` |
+| **Windows** | `SillyLead-Setup-X.Y.Z.exe` |
+| **Mac** | `SillyLead-Setup-X.Y.Z.dmg` |
+| **Linux** | `sillylead_X.Y.Z_amd64.deb` |
 
 📥 **Download here:** [github.com/mma-k/SillyLead-Downloads/releases](https://github.com/mma-k/SillyLead-Downloads/releases)
 
@@ -91,37 +91,27 @@ If you see a version number (like `Chromium 124.0.6367.155`), you're good!
 ## Step 3: Run SillyLead
 
 ### On Windows
-1. Find the `windows-sillylead.exe` file you downloaded
+1. Find the `SillyLead-Setup-X.Y.Z.exe` installer
 2. **Double-click** it
-3. If Windows shows a blue warning ("Windows protected your PC"), click **"More info"** → **"Run anyway"**
-4. A terminal window will open — SillyLead is starting! 🎉
+3. Follow the installer steps
+4. Launch SillyLead from the Start Menu or by typing `sillylead` in a new terminal
 
 ### On Mac
-1. Open **Terminal** (search for it in Spotlight)
-2. Navigate to where you downloaded the file:
-   ```
-   cd ~/Downloads
-   ```
-3. Make it executable:
-   ```
-   chmod +x macos-sillylead
-   ```
-4. Run it:
-   ```
-   ./macos-sillylead
-   ```
-5. If macOS blocks it: Go to **System Preferences → Security & Privacy** → Click **"Open Anyway"**
+1. Open the `SillyLead-Setup-X.Y.Z.dmg` file
+2. Drag SillyLead into **Applications**
+3. Open SillyLead from Applications
+4. If macOS blocks it, go to **Privacy & Security** and click **Open Anyway**
 
 ### On Linux
-1. Open your **Terminal**
-2. Navigate to the download folder:
+1. Open your terminal in the download folder
+2. Install the package:
    ```
-   cd ~/Downloads
+   sudo dpkg -i sillylead_X.Y.Z_amd64.deb
+   sudo apt-get install -f -y
    ```
-3. Make it executable and run:
+3. Launch from your app menu or run:
    ```
-   chmod +x linux-sillylead
-   ./linux-sillylead
+   sillylead
    ```
 
 ---
@@ -187,29 +177,24 @@ Click **"Settings"** to configure your preferences — default max results, emai
 | What You See | What To Do |
 |-------------|------------|
 | **"session not created: ChromeDriver version mismatch"** | Your Chrome browser is outdated. Update it to the latest version. |
-| **"No license found"** | Enter your license key. If you don't have one, contact us below. |
-| **"License already activated on another device"** | Each key works on ONE device only. Contact us to unbind your old device. |
+| **"No license found"** | Enter your license key. Buy/manage keys at [sillylead.vercel.app](https://sillylead.vercel.app). |
+| **"License already activated on another device"** | Each key works on one device. Manage reactivation at [sillylead.vercel.app](https://sillylead.vercel.app). |
 | **Tool seems slow** | Make sure your internet connection is stable. Close other heavy apps. |
 | **Windows blocks the .exe** | Click "More info" → "Run anyway". This is normal for unsigned apps. |
 | **Mac/Linux: "permission denied"** | Run `chmod +x sillylead` first to make the file executable. |
 
 ---
 
-## 📧 Get Your License Key
+## 🔑 Get Your License Key
 
-Interested in SillyLead Pro? Reach out to us:
+Buy and manage licenses at:
 
-| Method | Contact |
-|--------|---------|
-| 📱 **WhatsApp / Text** | **+233 509 954 835** *(text only, no calls please)* |
-| 📧 **Email** | **muhidtech1@gmail.com** |
-
-> Send us a message saying you're interested in SillyLead and we'll set you up with a license key.
+**https://sillylead.vercel.app**
 
 ---
 
 <div align="center">
-<b>SillyLead Pro v1.02</b> · Built for serious lead generation
+<b>SillyLead Pro</b> · Built for serious lead generation
 <br>
 <i>No coding required. Just download, activate, and start scraping.</i>
 </div>
