@@ -8,6 +8,8 @@ It is designed for two things:
 
 Main website (license purchase and product page): **https://sillylead.vercel.app**
 
+Current public release: **v2.0.1**
+
 ## What This Folder Contains
 
 - `install.py`
@@ -89,4 +91,3 @@ Full step-by-step details: see `UPLOAD_AND_NAMING.md`.
 All docs and app messages should point users to:
 
 **https://sillylead.vercel.app**
-
