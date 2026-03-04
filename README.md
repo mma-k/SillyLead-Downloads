@@ -1,5 +1,9 @@
 # SillyLead Downloads Hub
 
+<p align="center">
+  <img src="./assets/demo/scraper_view_with_query_1772647330046.png" alt="SillyLead App" width="100%"/>
+</p>
+
 This folder is the distribution source for SillyLead installers and update metadata.
 
 It is designed for two things:
