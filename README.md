@@ -14,6 +14,29 @@ Main website (license purchase and product page): **https://sillylead.vercel.app
 
 Current public release: **v2.0.1**
 
+## Product Proof (Screens + Live Capture)
+
+These files are real captures from the running SillyLead application and desktop GUI.
+
+- Full gallery: [`DEMO_GALLERY.md`](./DEMO_GALLERY.md)
+- Website demo assets mirror: `sillylead-web/public/demo/`
+
+<p align="center">
+  <img src="./assets/demo/sillylead_demo_recording_1772647252036.webp" alt="SillyLead Live Demo Capture" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./assets/demo/scraper_view_initial_1772647257724.png" alt="SillyLead Scraper Initial" width="32%"/>
+  <img src="./assets/demo/scraper_view_with_query_1772647330046.png" alt="SillyLead Scraper Running" width="32%"/>
+  <img src="./assets/demo/crm_table_view_1772647272131.png" alt="SillyLead CRM Table" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="./assets/demo/map_explorer_view_1772647282484.png" alt="SillyLead Map Explorer" width="32%"/>
+  <img src="./assets/demo/sillylead-desktop-gui-dashboard.png" alt="SillyLead Desktop Dashboard" width="32%"/>
+  <img src="./assets/demo/sillylead-desktop-gui-leads.png" alt="SillyLead Desktop Leads" width="32%"/>
+</p>
+
 ## What This Folder Contains
 
 - `install.py`
@@ -30,6 +53,9 @@ Current public release: **v2.0.1**
 
 - `SETUP_GUIDE.md`
   - End-user setup instructions.
+
+- `DEMO_GALLERY.md`
+  - Proof gallery with real screenshots and interface captures.
 
 - `UPLOAD_AND_NAMING.md`
   - Maintainer guide for upload steps and naming rules.

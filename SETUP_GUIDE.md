@@ -10,6 +10,23 @@
 
 ---
 
+## See Real Product Proof
+
+Before installing, you can inspect real screenshots and live capture from the shipped product:
+
+- Full gallery: [DEMO_GALLERY.md](./DEMO_GALLERY.md)
+
+<p>
+  <img src="./assets/demo/sillylead_demo_recording_1772647252036.webp" alt="SillyLead live run demo" width="100%" />
+</p>
+
+<p>
+  <img src="./assets/demo/scraper_view_with_query_1772647330046.png" alt="Scraper running with query" width="49%" />
+  <img src="./assets/demo/crm_table_view_1772647272131.png" alt="CRM table of extracted leads" width="49%" />
+</p>
+
+---
+
 ## Before You Start
 
 You need **two things** to use SillyLead:
