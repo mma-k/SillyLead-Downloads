@@ -1,26 +1,32 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "website_url": "https://sillylead.vercel.app",
-  "release_url": "https://github.com/mma-k/SillyLead-Downloads/releases/tag/v2.0.1",
-  "release_notes": "v2.0.1 stability and UX improvements across desktop, CLI, and web.",
+  "release_url": "https://github.com/mma-k/SillyLead-Downloads/releases/tag/v2.0.2",
+  "release_notes": "v2.0.2 release with improved desktop UX, cross-platform packaging reliability, and Android APK delivery.",
   "assets": {
     "windows": {
-      "asset_name": "SillyLead-Setup-2.0.1.exe",
-      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.1/SillyLead-Setup-2.0.1.exe",
+      "asset_name": "SillyLead-Setup-2.0.2.exe",
+      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.2/SillyLead-Setup-2.0.2.exe",
       "kind": "installer",
       "instructions": "Download and run the Windows installer."
     },
     "linux": {
-      "asset_name": "sillylead_2.0.1_amd64.deb",
-      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.1/sillylead_2.0.1_amd64.deb",
+      "asset_name": "sillylead_2.0.2_amd64.deb",
+      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.2/sillylead_2.0.2_amd64.deb",
       "kind": "installer",
       "instructions": "Install the .deb package, then launch SillyLead from your apps menu or terminal."
     },
     "macos": {
-      "asset_name": "SillyLead-Setup-2.0.1.dmg",
-      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.1/SillyLead-Setup-2.0.1.dmg",
+      "asset_name": "SillyLead-Setup-2.0.2.dmg",
+      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.2/SillyLead-Setup-2.0.2.dmg",
       "kind": "installer",
       "instructions": "Open the DMG and move SillyLead to Applications."
+    },
+    "android": {
+      "asset_name": "SillyLead-Setup-2.0.2.apk",
+      "download_url": "https://github.com/mma-k/SillyLead-Downloads/releases/download/v2.0.2/SillyLead-Setup-2.0.2.apk",
+      "kind": "installer",
+      "instructions": "Download the APK, allow install from unknown sources, and install on Android."
     }
   }
 }

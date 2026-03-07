@@ -12,7 +12,7 @@ It is designed for two things:
 
 Main website (license purchase and product page): **https://sillylead.vercel.app**
 
-Current public release: **v2.0.1**
+Current public release: **v2.0.2**
 
 ## Product Proof (Screens + Live Capture)
 
@@ -49,7 +49,7 @@ These files are real captures from the running SillyLead application and desktop
   - Used by both the installer and the app's in-app update checker.
 
 - Release binaries/installers
-  - Files generated from the CI/CD build workflow (Windows, macOS, Linux).
+  - Files generated from the CI/CD build workflow (Windows, macOS, Linux, Android).
 
 - `SETUP_GUIDE.md`
   - End-user setup instructions.

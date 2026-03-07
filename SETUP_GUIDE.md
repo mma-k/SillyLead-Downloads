@@ -65,6 +65,7 @@ Go to our releases page and download the file for your operating system:
 | **Windows** | `SillyLead-Setup-X.Y.Z.exe` |
 | **Mac** | `SillyLead-Setup-X.Y.Z.dmg` |
 | **Linux** | `sillylead_X.Y.Z_amd64.deb` |
+| **Android** | `SillyLead-Setup-X.Y.Z.apk` |
 
 📥 **Download here:** [github.com/mma-k/SillyLead-Downloads/releases](https://github.com/mma-k/SillyLead-Downloads/releases)
 
@@ -130,6 +131,11 @@ If you see a version number (like `Chromium 124.0.6367.155`), you're good!
    ```
    sillylead
    ```
+
+### On Android
+1. Download `SillyLead-Setup-X.Y.Z.apk` to your phone
+2. Open it and allow install from unknown sources if prompted
+3. Install and launch SillyLead
 
 ---
 
