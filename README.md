@@ -12,7 +12,7 @@ It is designed for two things:
 
 Main website (license purchase and product page): **https://sillylead.vercel.app**
 
-Current public release: **v2.0.2**
+Current public release: **v2.1.0**
 
 ## Product Proof (Screens + Live Capture)
 
